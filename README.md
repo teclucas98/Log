@@ -25,10 +25,10 @@ Isso é apenas um histórico, entretanto fiquem a vontade.
   * ![Vídeo](img/spr_youtube.png) [Gaming.live - Tess](https://youtu.be/QBQDFTDpJ44)
   * ![Música](img/spr_music.png) [Generic_Track 1](https://soundcloud.com/teclucas98/generic_track-1)
 * **![Pasta](img/spr_pasta.png) 2017/**
-  * ![Vídeo](img/spr_youtube) [Tradução : Earthbound?](https://youtu.be/ikMiNz-4lJI)
-  * ![Vídeo](img/spr_youtube) [Edição : Ataque da Casa (reloaded)](https://youtu.be/mg64rW2b7JE)
-  * ![Vídeo](img/spr_youtube) [Music: Fountain of Miracle](https://youtu.be/pSU50Q98G3k)
-  * ![Vídeo](img/spr_youtube) [Music: Missippi Remix](https://youtu.be/4JAozaNM098)
+  * ![Vídeo](img/spr_youtube.png) [Tradução : Earthbound?](https://youtu.be/ikMiNz-4lJI)
+  * ![Vídeo](img/spr_youtube.png) [Edição : Ataque da Casa (reloaded)](https://youtu.be/mg64rW2b7JE)
+  * ![Vídeo](img/spr_youtube.png) [Music: Fountain of Miracle](https://youtu.be/pSU50Q98G3k)
+  * ![Vídeo](img/spr_youtube.png) [Music: Missippi Remix](https://youtu.be/4JAozaNM098)
 * **![Pasta](img/spr_pasta.png) 2016/**
   * ![Vídeo](img/spr_youtube.png) [Tradução : PSI Universe Halloween 2016](https://youtu.be/A-YZBc1u4uU)
 * **![Pasta](img/spr_pasta.png) ~2015**
